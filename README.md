@@ -63,7 +63,7 @@ Per scaricare tutte le lezioni attualmente conosciute:
 
 2. Avvia lo script di download:
    ```
-   python aulavirtuale-dl
+   python aulavirtuale-dl.py
    ```
   
 > Nota: il download e la combinazione delle lezioni potrebbe richiedere molto tempo!
